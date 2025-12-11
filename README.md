@@ -50,8 +50,9 @@
 
 <p align="center">
 <a href="https://github.com/AlbertoRomeroPino">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlbertoRomeroPino&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="AlbertoRomeroPino Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoRomeroPino&layout=compact&langs_count=10&theme=algolia" alt="AlbertoRomeroPino Top Langs"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlbertoRomeroPino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas de Alberto"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoRomeroPino&layout=default&langs_count=8&theme=tokyonight" alt="Lenguajes de Alberto"/>
 </a>
 </p>
 
@@ -59,6 +60,6 @@
 
 <h3 align="center">Conecta conmigo 🤝</h3>
 <p align="center">
-<a href="https://linkedin.com/in/TU_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/TU_USUARIO_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://github.com/AlbertoRomeroPino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
 </p>
