@@ -1,4 +1,8 @@
-<h1 align="center"> 👋 Hola, soy Alberto</h1>
+<h1 align="center">Hola 👋 soy Alberto</h1>
+
+###
+
+<p align="center">Lenguajes que e utilizado</p>
 
 ###
 
@@ -33,13 +37,6 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=albertoromeropino&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=albertoromeropino&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
@@ -57,6 +54,10 @@
 <div align="center">
   <img src="https://count.getloli.com/@:albertoromeropino?theme=capoo-2&padding=8&offset=1&scale=1.1&align=top&pixelated=1&darkmode=auto"  />
 </div>
+
+###
+
+<p align="center">Mi actividad</p>
 
 ###
 
