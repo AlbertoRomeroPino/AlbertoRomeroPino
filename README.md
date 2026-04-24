@@ -42,7 +42,7 @@
       </td>
       <td width="33%" align="center">
         <a href="https://github.com/AlbertoRomeroPino/Leadchain.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=albertoromeropino&repo=ServicioTecnicoBack&theme=react&show_owner=true&description_lines_count=2" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=albertoromeropino&repo=Leadchain&theme=react&show_owner=true&description_lines_count=2" />
         </a>
       </td>
       <td width="33%" align="center">
