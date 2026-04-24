@@ -20,9 +20,17 @@
 
 <br/>
 
-<p align="center"><b>Lenguajes y herramientas</b></p>
+<p align="center"><b>Lenguajes</b></p>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,js,java,php,laravel,html,docker,github,mysql&theme=dark" height="50" />
+  <img src="https://skillicons.dev/icons?i=ts,js,java,php,css,html,docker,github,markdown,postgres,mysql&theme=dark" height="50" />
+</div>
+<p align="center"><b>framework </b></p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,angular,laravel&theme=dark" height="50" />
+</div>
+<p align="center"><b>herramientas y Bases de datos</b></p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,github,gitlab,postman,postgres,mysql,sqlite&theme=dark" height="50" />
 </div>
 
 <br/>
