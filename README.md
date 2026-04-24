@@ -22,7 +22,7 @@
 
 <p align="center"><b>Lenguajes y herramientas</b></p>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,js,java,php,laravel,html,css,docker,github,mysql&theme=dark" height="50" />
+  <img src="https://skillicons.dev/icons?i=ts,react,js,java,php,laravel,html,docker,github,mysql&theme=dark" height="50" />
 </div>
 
 <br/>
