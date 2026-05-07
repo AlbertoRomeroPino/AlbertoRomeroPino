@@ -6,9 +6,9 @@
       <td width="60%" align="left">
         <h3> 👨‍💻 Sobre mí</h3>
         <ul>
-          <li>🚀 Actualmente trabajando en proyectos <b>Full Stack</b>.</li>
-          <li>🎯 Mi meta es seguir profundizando en <b>Arquitecturas Limpias</b>.</li>
-          <li>💬 Pregúntame sobre <b>React, Java o TypeScript</b>.</li>
+          <li>Actualmente trabajando en proyectos <b>Full Stack</b>.</li>
+          <li>Mi meta es seguir profundizando en <b>Arquitecturas Limpias</b>.</li>
+          <li>Pregúntame sobre <b>React, Java o TypeScript</b>.</li>
         </ul>
       </td>
       <td width="40%" align="center">
@@ -22,7 +22,7 @@
 
 <p align="center"><b>Lenguajes</b></p>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,java,php,css,html,docker,github,markdown,postgres,mysql&theme=dark" height="50" />
+  <img src="https://skillicons.dev/icons?i=ts,js,java,php,css,html,markdown&theme=dark" height="50" />
 </div>
 <p align="center"><b>framework </b></p>
 <div align="center">
